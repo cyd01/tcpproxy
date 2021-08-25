@@ -1,4 +1,4 @@
-module cyd01/tcpproxy
+module github.com/cyd01/tcpproxy
 
 go 1.16
 
