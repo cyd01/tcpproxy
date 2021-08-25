@@ -1,4 +1,4 @@
-module inet.af/tcpproxy
+module cyd01/tcpproxy
 
 go 1.16
 
